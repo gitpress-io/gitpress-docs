@@ -1,0 +1,25 @@
+{
+  "outline": [
+    { "type": "section", "label":  "Getting Started", 
+      "items": [
+        { "label":  "Welcome to GitPress", "path": "welcome" },
+        { "label":  "Your first article from Git repository", "path": "first-article",
+          "items": [
+            { "label":  "Prepare a Git repository", "path": "prepare-a-git-repo" },
+            { "label":  "Fill the repo address in GitPress", "path": "fill-the-repo-address" },
+            { "label":  "Add a webhook to keep your articles alive", "path": "add-a-webhook" },
+            { "label":  "Compose, commmit and push", "path": "compose" }
+          ]
+        },
+        { "label":  "Use collection to arrange articles with same topic", "path": "collection" },
+        { "label":  "FAQ", "path": "faq" }
+      ]
+    },
+    { "type": "section", "label":  "User Manual",
+      "items": [
+        { "label":  "Front matter specification", "path": "front-matter" },
+        { "label":  "Supported languages", "path": "languages" }
+      ]
+    }
+  ]
+}
