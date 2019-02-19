@@ -25,15 +25,21 @@ You need a Git repository to contains your articles files. Go to [Github](https:
 
 [Login to GitPress](https://gitpress.io/login). Choose a repository which contains your articles.
 
+![Onboarding](/first-article/onboarding.jpg)
+
 ## Setup article repository
 
 GitPress uses webhook to sync content from GitHub. You'll be asked for a permission to add a webhook.
 
 In addition, if you choose a private repo, you'll be asked for a permission to add a deploy key in this step.
 
+![Almost done](/first-article/almost-done.jpg)
+
+
 Tap "Allow" to complete setup.
 
 ## Compose and commit your first article
 
 All done. Now you can add a new Markdown file at repo, write something, commit and push. 
+
 All changes will by sync to GitPress automatically.
