@@ -24,7 +24,7 @@ as readers, they can modify and run your code online.
 
 ## The best reading experience
 
-GitPress is designed to showcase your writing and coding in the best way possible, with the fewest distractions to your readers.
+GitPress is built for developers, also designed to showcase writing and coding of every people in the best way possible, with the fewest distractions to your readers.
 
 GitPress spent a lot of time making sure the reading experience is great regardless of the device or screen type you’re using. 
 
