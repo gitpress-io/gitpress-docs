@@ -6,7 +6,7 @@ date: 2018-12-31
 
 # Welcome to GitPress, where code matter.
 
-GitPress is a place where you express ideas using code.
+GitPress is a place where you can express ideas using both content and code.
 
 A place for writing and reading network with good experiences.
 
