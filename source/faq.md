@@ -10,7 +10,7 @@ A: No.
 
 GitPress doesn't offer any online editor because we think standalone Markdown editor will do a better job for you.
 
-You can use any editor you like to compose your articles. In additional, GitPress uses Git to sync content, you can use
+You can use any Markdown editor you like to compose your articles. In additional, GitPress uses Git to sync content, you can use
 Github's online editor to write your articles.
 
 **Q: How many programming languages do you support?**
