@@ -10,7 +10,7 @@ date: 2019-02-14
 
 Please follow the instructions to check your settings:
 
-1. the **Article Repo Url** is correct and can be access by public.
+1. the **Article Repo Url** is correct and can be access by GitPress.
 2. the **Directory** of Article Repo Url is correct. By default, it's `/`.
 3. all articles are placed in the **Directory** without any sub directory.
 3. all articles end with ".md" or ".markdown" extension.
