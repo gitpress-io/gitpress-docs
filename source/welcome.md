@@ -30,7 +30,7 @@ GitPress spent a lot of time making sure the reading experience is great regardl
 
 ## The cleanest writing experience
 
-GitPress format your content using Markdown, which is easy to learn and easy to write.
+GitPress formats your content using Markdown, which is easy to learn and easy to write.
 
 You can use any editor you like to compose your articles. In additional, GitPress uses Git to sync content, you can also use
 Github's online editor to write your articles. It is a way make you focus on writing.
