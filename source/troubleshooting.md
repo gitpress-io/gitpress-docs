@@ -16,10 +16,11 @@ Please follow the instructions to check your settings:
 3. all articles end with ".md" or ".markdown" extension.
 4. all articles should have [front-matter](front-matter) at begining of file.
 
-Check out [GitPress logs](https://github.com/gitpress-io/blog]) to learn about the directory structure.
+Check out [GitPress logs](https://github.com/gitpress-io/blog) to learn about the directory structure.
 
 It's settings are:
 
+- **Address**: https://gitpress.io/@gitpress
 - **Article Repo Url**: https://github.com/gitpress-io/blog.git
 - **Directory**: /source
 
@@ -46,5 +47,6 @@ GitPress Help is a regular collection. Check out [it's source here](https://gith
 
 It's settings are:
 
+- **Address**: https://gitpress.io/c/helps
 - **Github Repo Url**: https://github.com/gitpress-io/gitpress-docs.git
 - **Repo Directory**: /source

@@ -4,7 +4,7 @@ tags: ["GitPress", "GitPressTutorial"]
 date: 2018-12-31
 ---
 
-# Welcome to GitPress, where code matter.
+# Welcome to GitPress, where code matters.
 
 GitPress is a place where you can express ideas using both content and code.
 
