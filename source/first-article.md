@@ -11,7 +11,7 @@ date: 2018-12-31
 3. To keep your articles synced, GitPress will ask for adding a webhook at GitHub get notified when something changes.
 4. Now, you can compose articles now. Any changes at master branch will sync the articles to GitPress automatically.
 
-## Prepare a GitHub repository
+## Prepare a GitHub repo
 
 You need a GitHub repository to contains your articles files. Go to [Github](https://github.com/new), create a new repository.
 
@@ -19,13 +19,13 @@ You need a GitHub repository to contains your articles files. Go to [Github](htt
 2. Choose the **Public** permission options to make sure the repository is visible to the public.
 3. Tap `Create repository`.
 
-## Choose a repository
+## Choose a repo
 
 [Login to GitPress](https://gitpress.io/login). Choose a repository which contains your articles.
 
 ![Onboarding](/first-article/onboarding.jpg)
 
-## Setup article repository
+## Setup article repo
 
 GitPress uses webhook to sync content from GitHub. You'll be asked for a permission to add a webhook.
 
