@@ -1,5 +1,5 @@
 ---
-title: 2. Your first article from Git repository
+title: 2. Your first article from GitHub Repo
 tags: ["GitPress", "GitPressTutorial"]
 date: 2018-12-31
 ---

@@ -4,7 +4,7 @@ tags: ["GitPress", "GitPressTutorial"]
 date: 2018-12-31
 ---
 
-**GitPress Collection** is useful for the better content arrangement.
+**GitPress Collection** is useful for better content arrangement.
 
 Use **GitPress Collection** when…
 
