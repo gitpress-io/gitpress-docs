@@ -14,6 +14,10 @@ date: 2013/7/13 20:46:25
 ---
 ```
 
+You can append the front-matter to enhance your posts. 
+
+Additional properties could be specified in front-matter, such as Tags, Publish date, title, excerpt, etc.
+
 ## Settings & Default Values
 
 | Setting	| Description	| Default |

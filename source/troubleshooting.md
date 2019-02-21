@@ -16,11 +16,11 @@ Please follow the instructions to check your settings:
 3. all articles end with ".md" or ".markdown" extension.
 4. all articles should have [front-matter](front-matter) at begining of file.
 
-GitPress Help is an article collection. Check out [it's source here](https://github.com/lyricat/gitpress-docs]).
+Check out [GitPress logs](https://github.com/gitpress-io/blog]) to learn about the directory structure.
 
 It's settings are:
 
-- **Article Repo Url**: https://github.com/lyricat/gitpress-docs.git
+- **Article Repo Url**: https://github.com/gitpress-io/blog.git
 - **Directory**: /source
 
 ### Collection has no table of content
@@ -42,9 +42,9 @@ Please follow the instructions to check your settings:
 3. all articles end with ".md" or ".markdown" extension.
 4. all articles should have [front-matter](front-matter) at begining of file.
 
-GitPress Help is a regular collection. Check out [it's source here](https://github.com/lyricat/gitpress-docs]).
+GitPress Help is a regular collection. Check out [it's source here](https://github.com/gitpress-io/gitpress-docs]).
 
 It's settings are:
 
-- **Github Repo Url**: https://github.com/lyricat/gitpress-docs.git
+- **Github Repo Url**: https://github.com/gitpress-io/gitpress-docs.git
 - **Repo Directory**: /source

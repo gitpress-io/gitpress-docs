@@ -10,7 +10,7 @@ GitPress is a place where you can express ideas using both content and code.
 
 A place for writing and reading network with good experiences.
 
-GitPress is designed from the ground up to work the same way your code work does. 
+GitPress is designed from the ground up to work the same way your code works. 
 
 ## Run snippets of code from your content
 
@@ -22,13 +22,13 @@ as readers, they can modify and run your code online.
 
 [Checkout the demo to run code in GitPress](languages)
 
-## The best reading experience
+## The greate reading experience
 
 GitPress is built for developers, also designed to showcase writing and coding of every people in the best way possible, with the fewest distractions to your readers.
 
 GitPress spent a lot of time making sure the reading experience is great regardless of the device or screen type you’re using. 
 
-## The cleanest writing experience
+## The clean writing experience
 
 GitPress formats your content using Markdown, which is easy to learn and easy to write.
 

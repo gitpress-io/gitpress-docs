@@ -4,14 +4,12 @@ tags: ["GitPress", "GitPressTutorial"]
 date: 2018-12-31
 ---
 
-**GitPress** uses Git to sync articles. So you can the tools of development to publishing articles.
-
-The flow is very simple:
+**GitPress** uses Git to sync articles. So you can use the tools of development for publishing.
 
 1. You need to prepare a GitHub repo.
 2. [Login to GitPress](https://gitpress.io/login) via Github account, select the repository.
 3. To keep your articles synced, GitPress will ask for adding a webhook at GitHub get notified when something changes.
-4. Now, you can compose articles now. Any push to master branch will sync the articles to GitPress automatically.
+4. Now, you can compose articles now. Any changes at master branch will sync the articles to GitPress automatically.
 
 ## Prepare a GitHub repository
 
@@ -35,11 +33,8 @@ In addition, if you choose a private repo, you'll be asked for a permission to a
 
 ![Almost done](/first-article/almost-done.jpg)
 
-
 Tap "Allow" to complete setup.
 
 ## Compose and commit your first article
 
-All done. Now you can add a new Markdown file at repo, write something, commit and push. 
-
-All changes will by sync to GitPress automatically.
+All done. Now you can add a new Markdown file at repo, write something, commit and push. All changes will be synced to GitPress automatically.
