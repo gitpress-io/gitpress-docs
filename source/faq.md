@@ -27,6 +27,14 @@ for [over 100 languages](https://codemirror.net/mode/index.html) out of the box.
 A: By now, GitPress supports 5 languages to run inline, they are Javascript, Python 2, Ruby, C/C++, Scheme.
 We are still working on more language playgrounds. Check [the language support](languages).
 
+## Q: How to sync with private repos?
+
+A: Follow [this instruction](setup-manually) to sync with private repos.
+
+## Q: How to setup repo manually?
+
+A: Follow [this instruction](setup-manually) to setup repo manually.
+
 ## Q: How to upload images and pictures?
 
 A: I recommend you to keep image files or pictures in an online image sharing and host service like imgur, google cloud, Amazon S3, etc.
