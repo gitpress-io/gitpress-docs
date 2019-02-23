@@ -1,5 +1,5 @@
 ---
-title: Setup your repo to sync with GitPress
+title: Setup your repos(public and private) to sync with GitPress
 tags: ["GitPress", "GitPressHelp"]
 date: 2019-02-22
 ---
