@@ -12,4 +12,4 @@
 
 - [Front matter specification](front-matter)
 - [Supported languages](languages)
-- [Setup repo manually](setup-manually)
+- [Setup repos manually](setup-manually)
