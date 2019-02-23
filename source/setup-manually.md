@@ -4,7 +4,9 @@ tags: ["GitPress", "GitPressHelp"]
 date: 2019-02-22
 ---
 
-**Important: not supported yet. I will implement it ASAP**
+**Important: to setup manually is not supported yet. I will implement it ASAP**
+
+---
 
 It's fine if you skip the onboarding guide and prefer to setup repo manually. 
 
