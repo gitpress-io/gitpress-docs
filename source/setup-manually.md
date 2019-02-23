@@ -12,7 +12,7 @@ To setup manually is also the recommended way to sync with private repos.
 
 ### Setup Repo Url
 
-On your repo's settings page, copy the SSH based Git Url. For example, `https://github.com/gitpress-io/blog`
+On your repo's settings page, copy the HTTPS based Git Url. For example, `https://github.com/gitpress-io/blog`
 
 Back to GitPress, visit article's settings page or collection's setting page. Tap "Other repos" link beside Repo dropdown, paste the Url.
 
