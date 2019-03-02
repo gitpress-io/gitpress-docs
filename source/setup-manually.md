@@ -1,12 +1,9 @@
 ---
-title: Setup your repos(public and private) to sync with GitPress
+title: Setup your repos to sync with GitPress
 tags: ["GitPress", "GitPressHelp"]
 date: 2019-02-22
 ---
 
-**Important: to setup manually is not supported yet. I will implement it ASAP**
-
----
 
 It's fine if you skip the onboarding guide and prefer to setup repo manually. 
 
@@ -18,7 +15,7 @@ To setup manually is also the recommended way to sync with private repos.
 
 On your repo's settings page, copy the HTTPS based Git Url. For example, `https://github.com/gitpress-io/blog`
 
-Back to GitPress, visit article's settings page or collection's setting page. Tap "Other repos" link beside Repo dropdown, paste the Url.
+Back to GitPress, visit article's settings page or collection's setting page. Tap "Manually setup", paste the Url.
 
 Tap "Save" button.
 
@@ -26,14 +23,13 @@ Tap "Save" button.
 
 On your repo's settings page, copy the Webhook Url
 
-Visit your private repo's webhook settings page at GitHub, Tap "Add webhook"
+Visit your repo's webhook settings page at GitHub, Tap "Add webhook"
 
 Fill the Url entry, and Tap the green button "Add webhook" at bottom of the form.
 
 ### Rebuild
 
 On your repo's settings page, Tap "Rebuild" button
-
 
 ## Sync Private Repo
 
