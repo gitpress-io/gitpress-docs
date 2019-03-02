@@ -11,27 +11,29 @@ date: 2018-12-31
 | Language | Implement |
 | --- | --- |
 | C/CPP 	| [JSCPP](https://github.com/felixhao28/JSCPP) |
-| javascript 	| - |
-| python 2.7	| [Skulpt](skulpt.org) |
-| ruby		| [Opal](https://opalrb.com/#) |
-| scheme	| [Biwascheme](https://www.biwascheme.org) |
-| swift		| [iSwift](https://iswift.org/) |
+| Javascript | Browser |
+| Python 2.7	| [Skulpt](skulpt.org) |
+| Ruby	| [Opal](https://opalrb.com/#) |
+| Scheme	| [Biwascheme](https://www.biwascheme.org) |
+| Swift	| [iSwift](https://iswift.org/) |
+| Golang	| [Go Playground](https://http://play.golang.org/) |
+| Rust	| [Rust Playground](https://play.rust-lang.org/) |
 
 
 ```c
 #include <stdio.h>
 int main() {
-  printf("Ok.\n");
+  printf("Ok, it's C.\n");
   return 0;
 }
 ```
 
 ```javascript
-console.log('hello!');
+console.log('Hello Javascript!');
 ```
 
 ```python
-print('ok')
+print('Hello Python!')
 ```
 
 
@@ -49,16 +51,21 @@ puts "Hi. I am Ruby."
 ```
 
 ```swift
-print("Hello!");
+print("Hello, Swift");
 ```
 
 ```go
 package main
-
 import "fmt"
 
 func main() {
 	fmt.Println("Hello, 世界")
+}
+```
+
+```rust
+fn main() {
+    println!("Hello, world!");
 }
 ```
 
@@ -68,7 +75,7 @@ func main() {
 ```php
 <?php
   echo "Hello World!";
-  echo "PHP is so easy!";
+  echo "PHP is so easy?";
 ?>
 ```
 
@@ -78,12 +85,6 @@ func main() {
 }
 .class-ele {
   background: transparent url('../images/logo.png') 0 0 no-repeat;
-}
-```
-
-```rust
-fn main() {
-    println!("Hello, world!");
 }
 ```
 
