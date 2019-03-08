@@ -12,6 +12,8 @@ A place for writing and reading network with good experiences.
 
 GitPress is designed from the ground up to work the same way your code works. 
 
+[Tap to login with GitHub](/login)
+
 ## Run snippets of code from your content
 
 GitPress uses Code-Knack powered code evaluator to embed code in your content. 
@@ -40,5 +42,4 @@ Github's online editor to write your articles. It is a way make you focus on wri
 GitPress sync content from GitHub and your private repo. 
 
 You can remove all content from GitPress any time. GitPress promises that you own your data forever and will not be exploited.
-
 
