@@ -12,7 +12,7 @@ A place for writing and reading network with good experiences.
 
 GitPress is designed from the ground up to work the same way your code works. 
 
-[Tap to login with GitHub](/login)
+[Tap to login with GitHub](/login) or [Join Discord](https://discord.gg/quMK3kj)
 
 ## Run snippets of code from your content
 
