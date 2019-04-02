@@ -12,4 +12,5 @@
 
 - [Front matter specification](front-matter)
 - [Supported languages](languages)
+- [Markdown for GitPress](markdown)
 - [Setup repos(public and private) manually](setup-manually)
