@@ -122,17 +122,6 @@ In markdown source code, tables look like:
 
 You can also include inline Markdown such as links, bold, italics, or strikethrough in the table.
 
-Finally, by including colons (`:`) within the header row, you can define text in that column to be left-aligned, right-aligned, or center-aligned:
-
-``` markdown
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-```
-
-A colon on the left-most side indicates a left-aligned column; a colon on the right-most side indicates a right-aligned column; a colon on both sides indicates a center-aligned column.
 
 ### Horizontal Rules
 
@@ -226,41 +215,7 @@ Images have similar syntax as links, but they require an additional `!` char bef
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
 
-You are able to use drag & drop to insert an image from an image file or your web browser. You can modify the markdown source code by clicking on the image. A relative path will be used if the image that is added using drag & drop is in same directory or sub-directory as the document you're currently editing.
-
-If you’re using markdown for building websites, you may specify a URL prefix for the image preview on your local computer with property `GitPress-root-url` in YAML Front Matters. For example, input `GitPress-root-url:/User/Abner/Website/GitPress.io/` in YAML Front Matters, and then `![alt](/blog/img/test.png)` will be treated as `![alt](file:///User/Abner/Website/GitPress.io/blog/img/test.png)` in GitPress.
-
-You can find more details [here](https://support.GitPress.io/Images/).
-
-### Emphasis
-
-Markdown treats asterisks (`*`) and underscores (`_`) as indicators of emphasis. Text wrapped with one `*` or `_` will be wrapped with an HTML `<em>` tag. E.g:
-
-``` markdown
-*single asterisks*
-
-_single underscores_
-```
-
-output:
-
-*single asterisks*
-
-_single underscores_
-
-GFM will ignore underscores in words, which is commonly used in code and names, like this:
-
-> wow_great_stuff
->
-> do_this_and_do_that_and_another_thing.
-
-To produce a literal asterisk or underscore at a position where it would otherwise be used as an emphasis delimiter, you can backslash escape it:
-
-``` markdown
-\*this text is surrounded by literal asterisks\*
-```
-
-GitPress recommends using the `*` symbol.
+You can find more details [here](faq).
 
 ### Strong
 
@@ -294,10 +249,11 @@ Use the `printf()` function.
 
 ### Strikethrough
 
-GFM adds syntax to create strikethrough text, which is missing from standard Markdown.
+To create strikethrough text, round your text with `~~`.
 
 `~~Mistaken text.~~` becomes ~~Mistaken text.~~
 
 ## HTML
 
-You can use HTML to style content what pure Markdown does not support. For example, use `<span style="color:red">this text is red</span>` to add text with red color.
+You can use HTML to style content what pure Markdown does not support. For example, use `<span style="color:red">this text is red</span>` to add <span style="color:red">text with red color</span>.
+
