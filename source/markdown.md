@@ -39,8 +39,6 @@ Markdown uses email-style > characters for block quoting. They are presented as:
 >
 > This is second pragraph. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
-
-
 > This is another blockquote with one paragraph. There is three empty line to seperate two blockquote.
 ```
 
@@ -52,14 +50,14 @@ Input `1. list item 1` will create an ordered list - their markdown source code 
 
 ``` markdown
 ## un-ordered list
-*   Red
-*   Green
-*   Blue
+* Red
+* Green
+* Blue
 
 ## ordered list
-1.  Red
-2. 	Green
-3.	Blue
+1. Red
+2. Green
+3. Blue
 ```
 
 ### Task List
@@ -95,6 +93,9 @@ puts markdown.to_html
 ​```
 ```
 
+You can find more details [here](https://gitpress.io/@gitpress/languages).
+
+
 ### Diagrams and LaTeX
 
 You can render *LaTeX* mathematical expressions and Diagrams using Code block;
@@ -107,7 +108,7 @@ You can render *LaTeX* mathematical expressions and Diagrams using Code block;
 \end{vmatrix}
 ```
 
-You can find more details [here](https://gitpress.io/@gitpress/diagrams-with-mermaid) and [here](https://gitpress.io/@gitpress/latex)
+You can find more details [here](https://gitpress.io/@gitpress/diagrams-with-mermaid) and [here](https://gitpress.io/@gitpress/latex).
 
 ### Tables
 
