@@ -8,7 +8,7 @@ date: 2019-04-01
 
 [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) and [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) created the Markdown language in 2004, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format"
 
-There are varies syntax between different parsers, **GitPress** is using [marked.js][http://marked.js.org/].
+There are varies syntax between different parsers, **GitPress** is using [marked.js](http://marked.js.org/).
 
 ## Block Elements
 
@@ -252,8 +252,4 @@ Use the `printf()` function.
 To create strikethrough text, round your text with `~~`.
 
 `~~Mistaken text.~~` becomes ~~Mistaken text.~~
-
-## HTML
-
-You can use HTML to style content what pure Markdown does not support. For example, use `<span style="color:red">this text is red</span>` to add <span style="color:red">text with red color</span>.
 
