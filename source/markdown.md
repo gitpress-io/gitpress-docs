@@ -29,7 +29,6 @@ Headers use 1-6 hash (`#`) characters at the start of the line, corresponding to
 ```
 
 
-
 ### Blockquotes
 
 Markdown uses email-style > characters for block quoting. They are presented as:
@@ -140,6 +139,55 @@ You can find more details [here](front-matter)
 ### Table of Contents (TOC)
 
 TOC will be generated automatically for each article.
+
+### Message Blocks
+
+GitPress implement some Markdown extension from [Open Publishing Service](https://docs.microsoft.com/en-us/contribute/how-to-write-use-markdown#ops-custom-markdown-extensions), such as Message Blocks.
+
+You can choose from several types of message blocks to draw attention to specific content:
+
+- NOTE
+- WARNING
+- ERROR
+- TIP
+- IMPORTANT
+
+Examples:
+
+```markdown
+> [!NOTE]
+> This is a NOTE
+
+> [!WARNING]
+> This is a WARNING
+
+> [!ERROR]
+> This is a ERROR
+
+> [!TIP]
+> This is a TIP
+
+> [!IMPORTANT]
+> This is IMPORTANT
+```
+
+These render as follows:
+
+> [!NOTE]
+> This is a NOTE
+
+> [!WARNING]
+> This is a WARNING
+
+> [!ERROR]
+> This is a ERROR
+
+> [!TIP]
+> This is a TIP
+
+> [!IMPORTANT]
+> This is IMPORTANT
+
 
 ## Span Elements
 
@@ -253,4 +301,5 @@ Use the `printf()` function.
 To create strikethrough text, round your text with `~~`.
 
 `~~Mistaken text.~~` becomes ~~Mistaken text.~~
+
 
