@@ -43,7 +43,7 @@ Please follow the instructions to check your settings:
 3. all articles end with ".md" or ".markdown" extension.
 4. all articles should have [front-matter](front-matter) at begining of file.
 
-GitPress Help is a regular collection. Check out [it's source here](https://github.com/gitpress-io/gitpress-docs]).
+GitPress Help is a regular collection. Check out [it's source here](https://github.com/gitpress-io/gitpress-docs).
 
 It's settings are:
 
